@@ -2,16 +2,21 @@
 
 ### Date created
 Include the date you created this project and README file.
+12/29/2022
 
 ### Project Title
 Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
+project 3 Post your work on Github
 
 ### Files used
 Include the files used
+git commands, documantation.pdf,
+git-keyTerms.pdf
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+https://git-scm.com/doc
